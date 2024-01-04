@@ -1,24 +1,27 @@
 # Basic-Linux-Command
 
-1.ls	Lists the content of a directory
-2.alias	Define or display aliases
-3.unalias	Remove alias definitions
-pwd	Prints the working directory
-cd	Changes directory
-cp	Copies files and directories
-rm	Remove files and directories
-mv	Moves (renames) files and directories
-mkdir	Creates directories
-man	Displays manual page of other commands
-touch	Creates empty files
-chmod	Changes file permissions
-./	Runs an executable
-exit	Exits the current shell session
-sudo	Executes commands as superuser
-shutdown	Shutdowns your machine
-htop	Displays processes and resources information
-unzip	Extracts compressed ZIP files
-apt, yum, pacman	Package managers
+1.ls	//Lists the content of a directory
+
+2.alias	//Define or display aliases
+
+3.unalias	//Remove alias definitions
+
+4.pwd	//Prints the working directory
+5.cd	//Changes directory
+6.cp	//Copies files and directories
+7.rm	//Remove files and directories
+8.mv	//Moves (renames) files and directories
+9.mkdir	//Creates directories
+10.man	//Displays manual page of other commands
+11.touch	//Creates empty files
+12.chmod	//Changes file permissions
+13../	 //Runs an executable
+14.exit 	//Exits the current shell session
+15.sudo	 //Executes commands as superuser
+16.shutdown	//Shutdowns your machine
+17.htop	 //Displays processes and resources information
+18.unzip	//Extracts compressed ZIP files
+19.apt, yum, pacman	//Package managers
 echo	Displays lines of text
 cat	Prints file contents
 ps	Reports shell processes status
